@@ -1,4 +1,4 @@
-package Lesson7;
+package Lesson6;
 
 public class Cats extends Animal{
 

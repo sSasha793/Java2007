@@ -1,4 +1,4 @@
-package Lesson7;
+package Lesson6;
 
 public class MainAPp {
     public static void main(String[] args) {

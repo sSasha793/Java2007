@@ -1,4 +1,4 @@
-package Lesson7;
+package Lesson6;
 
 public class Dog extends Animal{
     public static int coun;
